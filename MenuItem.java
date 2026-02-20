@@ -11,5 +11,6 @@ public class MenuItem {
 
     public String itemDetails() {
         return "Item: " + itemName;
+        
     }
 }
